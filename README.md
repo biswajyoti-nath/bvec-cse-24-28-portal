@@ -3,7 +3,7 @@
 A fully responsive, client-side web application built for the **CSE Batch 2024–28** of Barak Valley Engineering College (BVEC).  
 The project demonstrates dynamic UI rendering, data handling in the browser, DOM manipulation, and responsive frontend design using modern web technologies.
 
-**Live Website:** https://biswajyoti-nath.github.io/cse24-28/
+**Live Website:** https://biswajyoti-nath.github.io/bvec-cse-24-28-portal/
 
 ---
 
